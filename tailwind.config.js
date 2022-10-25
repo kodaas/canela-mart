@@ -19,7 +19,7 @@ module.exports = {
       'stroke-light': '#F1F1F5',
       'light-grey': '#E0E0E0',
       'light-grey2': '#DBDBDB',
-      'light-bg': '#DBDBDB',
+      'light-bg': '#F3F5F7',
       'dark-grey': '#617986',
       'dark-bg': '#0D1F29',
       'dark-bg2': '#1A3848',
